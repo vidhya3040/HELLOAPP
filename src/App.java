@@ -3,7 +3,7 @@ public class App{
 
         System.out.println("hello world  java 3");
 
-        System.out.println("hey java");
+        System.out.println("hey java 2");
 
         System.out.println("fix commit 2");
         System.out.println("Stashing hello ");
